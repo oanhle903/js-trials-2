@@ -40,7 +40,6 @@ function smallestNItems(items, n) {
   }
   
   return result;
-
 }
 
 // console.log(smallestNItems([2, 5, 3, 7, 8, 4], 3))
